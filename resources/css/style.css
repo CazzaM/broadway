@@ -14,6 +14,11 @@ html{
 
 }
 
+nav{
+  margin: 0;
+  padding: 0:
+}
+
 nav a {
   display: block;
   font-size: 18px;
