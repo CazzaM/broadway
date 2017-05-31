@@ -1,0 +1,17 @@
+html{
+  font-family: helvetica;
+}
+
+.header{
+    color: white;
+    background-image: url("https://cazzam.github.io/broadway/resources/images/the-flatiron-building.png");
+}
+
+nav{
+  font-size: 18px;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
