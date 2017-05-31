@@ -9,6 +9,8 @@ html{
 
 .Header nav{
   font-size: 18px;
+  text-align: center;
+  color: white;  
 }
 
 .Header h1{
