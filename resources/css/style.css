@@ -10,7 +10,8 @@ html{
 .Header nav{
   font-size: 18px;
   text-align: center;
-  color: white;  
+  color: white;
+  display: block;
 }
 
 .Header h1{
