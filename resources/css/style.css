@@ -57,9 +57,6 @@ h4{
 
 .footer ul li{
   float: left;
-}
-
-.footer ul li a {
   display: block;
   color: white;
   font-size: 11px;
