@@ -49,6 +49,7 @@ h4{
 
 .footer {
   width: 100%;
+  background-color: dimgray;
 }
 
 .footer span{
@@ -61,11 +62,13 @@ h4{
   margin: 0;
   padding: 0;
   overflow:hidden;
-  background-color: dimgray;
 }
 
 .footer ul li{
   float:left;
+}
+
+.footer ul li a{
   display: block;
   color: white;
   font-size: 11px;
