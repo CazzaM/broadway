@@ -47,8 +47,7 @@ h4{
   color: white;
 }
 
-.footer {
-
+.footer ul{
   width: 100%;
   background-color: dimgray;
   text-align: left;
@@ -66,7 +65,7 @@ h4{
   color: white;
 }
 
-.footer ul{
+.footer li{
   list-style-type: none;
   margin: 0;
   padding: 0;
