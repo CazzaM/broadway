@@ -13,13 +13,13 @@ p.Header h1{
   color: white;
 }
 
-ul{
+.Header ul{
   list-style-type: none;
   margin: 0;
   padding: 0:
 }
 
-li a {
+.Header li a {
   display: block;
   color: white;
   font-size: 18px;
