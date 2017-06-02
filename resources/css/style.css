@@ -53,9 +53,13 @@ h4{
   padding: 0;
 }
 
+.footer ul li{
+  float: left;
+}
+
 .footer ul li a {
+  display: block;
   color: white;
   font-size: 11px;
   background-color: dimgray;
-  text-align: left;
 }
