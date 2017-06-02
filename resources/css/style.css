@@ -7,19 +7,19 @@ html{
     background-image: url("https://cazzam.github.io/broadway/resources/images/the-flatiron-building.png");
 }
 
-p.Header h1{
+.Header h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
-.Header ul{
+.Header nav ul{
   list-style-type: none;
   margin: 0;
   padding: 0:
 }
 
-.Header li a {
+.Header nav ul li a {
   display: block;
   color: white;
   font-size: 18px;
