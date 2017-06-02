@@ -1,32 +1,28 @@
 html{
   font-family: helvetica;
+  text-align: center;
 }
 
 .Header{
-    color: white;
     background-image: url("https://cazzam.github.io/broadway/resources/images/the-flatiron-building.png");
 }
 
-.Header .Menu{
-  font-size: 18px;
-  text-align: center;
+p.Header h1{
+  font-size: 70px;
+  font-weight: bold;
   color: white;
-
 }
 
-nav{
+ul{
+  list-style-type: none;
   margin: 0;
   padding: 0:
 }
 
-nav a {
+li a {
   display: block;
+  color: white;
   font-size: 18px;
   padding-top: 2px;
   padding-bottom: 2px;
-}
-
-.Header h1{
-  font-size: 70px;
-  font-weight: bold;
 }
