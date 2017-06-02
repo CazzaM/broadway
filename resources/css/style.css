@@ -58,6 +58,7 @@ h4{
 }
 
 .footer ul li{
+  text-align: left;
   display: block;
   color: white;
   font-size: 11px;
