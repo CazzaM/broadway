@@ -55,6 +55,8 @@ h4{
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow:hidden;
+  background-color: dimgray;
 }
 
 .footer ul li{
@@ -63,5 +65,5 @@ h4{
   display: block;
   color: white;
   font-size: 11px;
-  background-color: dimgray;
+
 }
