@@ -26,16 +26,16 @@ h1{
   padding: 50px 0px 20px 0px;
 }
 
-div.Process h2{
+,Process h2{
   font-size: 32px;
   font-weight:bold;
 }
 
-div.Process h3{
+.Process h3{
   font-size: 32px;
   font-weight: bold;
 }
 
-div.Process p{
+.Process p{
   font-size: 14px;
 }
