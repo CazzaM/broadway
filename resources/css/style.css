@@ -54,7 +54,7 @@ h4{
   text-align: left;
 }
 
-.footer ul li .copyright a{
+#copyright a{
   text-decoration: none;
   font-size: 11px;
   color: white;
