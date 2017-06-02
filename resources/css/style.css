@@ -23,7 +23,7 @@ h1{
   display: block;
   color: white;
   font-size: 18px;
-  padding: 0px 0px 20px 0px;
+  padding: 0px 0px 15px 0px;
 }
 
 .Process h2{
@@ -38,4 +38,11 @@ h1{
 
 .Process p{
   font-size: 14px;
+}
+
+.Process h4{
+  background-image: url("https://cazzam.github.io/broadway/resources/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
