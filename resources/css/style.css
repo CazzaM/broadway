@@ -60,24 +60,24 @@ h4{
   color: white;
 }
 
-#copyright{
+.footer .copyright{
   text-decoration: none;
   font-size: 11px;
   color: white;
 }
 
-.footer nav ul{
+.footer ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow:hidden;
 }
 
-.footer ul li{
+.footer li{
   float:left;
 }
 
-.footer ul li a{
+.footer li a{
   display: block;
   color: white;
   font-size: 11px;
