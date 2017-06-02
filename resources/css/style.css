@@ -48,13 +48,13 @@ h4{
 }
 
 .footer {
-  display: block;  
+
   width: 100%;
   background-color: dimgray;
   text-align: left;
 }
 
-.footer span{
+.footer .copyright{
   font-size: 11px;
   color: white;
 }
@@ -71,8 +71,8 @@ h4{
 }
 
 .footer ul li a{
-
+  display: block;
   color: white;
-  font-size: 11px;
+  font-size: 18px;
   padding: 0px 1px 0px 1px;
 }
