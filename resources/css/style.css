@@ -15,7 +15,8 @@ h1{
 
 .Header nav ul{
   list-style-type: none;
-
+  margin: 0;
+  padding: 0;
 }
 
 .Header nav ul li a {
@@ -23,4 +24,18 @@ h1{
   color: white;
   font-size: 18px;
   padding: 50px 0px 20px 0px;
+}
+
+div.Process h2{
+  font-size: 32px;
+  font-weight:bold;
+}
+
+div.Process h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+div.Process p{
+  font-size: 14px;
 }
