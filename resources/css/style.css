@@ -51,6 +51,11 @@ h4{
   width: 100%;
 }
 
+.footer span{
+  font-size: 11px;
+  color: white;
+}
+
 .footer nav ul{
   list-style-type: none;
   margin: 0;
@@ -59,12 +64,9 @@ h4{
   background-color: dimgray;
 }
 
-.footer ul li,
-.footer ul li a{
+.footer ul li{
   float:left;
-  text-align: left;
   display: block;
   color: white;
   font-size: 11px;
-
 }
