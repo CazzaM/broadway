@@ -16,12 +16,11 @@ h1{
 .Header nav ul{
   list-style-type: none;
   margin: 0;
-  padding: 0:
+  padding-top: 20:
 }
 
 .Header nav ul li a {
   display: block;
   color: white;
   font-size: 18px;
-  margin-top: 20px;
 }
