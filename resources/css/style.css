@@ -19,9 +19,9 @@ h1{
   padding: 0;
 }
 
-.Header li a {
+.Header nav ul li a {
   display: block;
   color: white;
   font-size: 18px;
-  padding-top: 20;
+  padding-top: 50;
 }
