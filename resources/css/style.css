@@ -53,6 +53,7 @@ h4{
 }
 
 .footer span{
+  float:left;  
   text-align: left;
   font-size: 11px;
   color: white;
@@ -66,7 +67,7 @@ h4{
 }
 
 .footer ul li{
-
+  float:left;
 }
 
 .footer ul li a{
