@@ -48,6 +48,7 @@ h4{
 }
 
 .footer {
+  display: block;  
   width: 100%;
   background-color: dimgray;
   text-align: left;
@@ -70,7 +71,7 @@ h4{
 }
 
 .footer ul li a{
-  display: inline-block;
+
   color: white;
   font-size: 11px;
   padding: 0px 1px 0px 1px;
