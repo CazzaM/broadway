@@ -54,7 +54,13 @@ h4{
   text-align: left;
 }
 
-.footer #copyright a{
+.footer ul li #copyright a{
+  text-decoration: none;
+  font-size: 11px;
+  color: white;
+}
+
+#copyright{
   text-decoration: none;
   font-size: 11px;
   color: white;
@@ -74,6 +80,6 @@ h4{
 .footer ul li a{
   display: block;
   color: white;
-  font-size: 18px;
-  padding: 0px 1px 0px 1px;
+  font-size: 11px;
+  padding: 0px 2px 0px 2px;
 }
