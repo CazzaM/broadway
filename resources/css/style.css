@@ -48,17 +48,12 @@ h4{
 }
 
 .footer {
-
   width: 100%;
   background-color: dimgray;
   text-align: left;
 }
 
-.footer ul li #copyright a{
-  text-decoration: none;
-  font-size: 11px;
-  color: white;
-}
+
 
 .footer nav ul{
   list-style-type: none;
