@@ -47,38 +47,33 @@ h4{
   color: white;
 }
 
-.footer nav{
+.footer {
+
   width: 100%;
   background-color: dimgray;
   text-align: left;
 }
 
-.footer ul li #copyright a{
+#copyright a{
   text-decoration: none;
   font-size: 11px;
   color: white;
 }
 
-.footer .copyright{
-  text-decoration: none;
-  font-size: 11px;
-  color: white;
-}
-
-.footer li{
+.footer nav ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow:hidden;
 }
 
-.footer li{
+.footer ul li{
   float:left;
 }
 
-.footer li a{
+.footer ul li a{
   display: block;
   color: white;
-  font-size: 11px;
-  padding: 0px 2px 0px 2px;
+  font-size: 18px;
+  padding: 0px 1px 0px 1px;
 }
