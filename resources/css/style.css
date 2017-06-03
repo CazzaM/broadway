@@ -60,15 +60,18 @@ h4{
   overflow:hidden;
 }
 
-/* This puts all list items next to each other*/
+/* This puts all list items next to each other. It seems if you use display: inline, it will do the same thing.*/
 .footer ul li{
   float:left;
 }
 
-
+/* This makes all the items text colours white and 11 pixels and puts space between each item.*/
 .footer ul li a{
-
   color: white;
   font-size: 11px;
   padding: 0px 2px 0px 2px;
+}
+
+a.copyright{
+  text-decoration: none;
 }
