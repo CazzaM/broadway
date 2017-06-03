@@ -74,6 +74,7 @@ h4{
 
 /* This removed the underline from the copyright list item */
 li.copyright{
+  float:left;  
   color: white;
   font-size: 11px;
   text-decoration: none;
