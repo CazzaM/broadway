@@ -47,6 +47,7 @@ h4{
   color: white;
 }
 
+/* This makes the background colour grey (no need to set width or align text left)*/
 .footer {
   background-color: dimgray;
 }
@@ -59,9 +60,7 @@ h4{
   overflow:hidden;
 }
 
-.footer ul li{
-  float:left;
-}
+
 
 .footer ul li a{
   display: block;
