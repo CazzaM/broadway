@@ -72,6 +72,9 @@ h4{
   padding: 0px 2px 0px 2px;
 }
 
-a.copyright{
+/* This removed the underline from the copyright list item */
+li.copyright{
+  color: white;
+  font-size: 11px;
   text-decoration: none;
 }
