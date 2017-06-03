@@ -61,7 +61,7 @@ h4{
 }
 
 /* This puts all list items next to each other. It seems if you use display: inline, it will do the same thing.*/
-.footer ul {
+.footer ul li{
   float:left;
 }
 
@@ -72,9 +72,7 @@ h4{
   padding: 0px 2px 0px 2px;
 }
 
-/* This removed the underline from the copyright list item */
+/* This removes the underline for the copyright list item.*/
 a.copyright{
-  color: white;
-  font-size: 11px;
   text-decoration: none;
 }
